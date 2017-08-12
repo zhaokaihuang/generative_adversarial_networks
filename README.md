@@ -12,6 +12,7 @@ Here is a list of papers (see more in [papers](papers)):
 * [Original GAN](papers/GAN.pdf)
 * [Techniques for GAN](papers/Improved_Techniques_for_Training_GANs.pdf)
 * [WGAN](papers/Wasserstein_GAN.pdf)
+* [DCGAN](papers/DCGAN.pdf)
 * [Conditional GAN](papers/conditional_GAN.pdf)
 * [Cycle GAN](papers/cycle_GAN.pdf)
 * [Disco GAN](papers/Disco_GAN.pdf)
