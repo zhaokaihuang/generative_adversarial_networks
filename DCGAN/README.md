@@ -10,8 +10,8 @@ are defined in *functions* of **discriminator** & **generator** respectively. Fo
 
 To illustrate convolution & deconvolution clearly, the images are shown as below,
 <p align="center">
-<img src="imgs/convolution.gif" width="280" height="280"><br/>
+<img src="imgs/convolution.gif" width="250" height="180"><br/>
 <i>Figure 2</i>, convolution.<br/><br/>
-<img src="imgs/deconvolution" width="280" height="280"><br/>
+<img src="imgs/deconvolution.gif" width="230" height="200"><br/>
 <i>Figure 3</i>, deconvolution.<br/><br/>
 </p>
