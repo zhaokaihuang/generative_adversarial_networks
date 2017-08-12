@@ -1,7 +1,7 @@
 The [gan.py](gan.py) implements a basic, simple version of Deep Convolution Generative Adversarial Learning (**DCGAN**) 
-with convolutional discriminator & deconvolutional generator. Though some details are ignored in the implementation. The architecture of DCGAN is shown as below,
+with **convolutional discriminator** & **deconvolutional generator**. Though some details are ignored in the implementation. The architecture of DCGAN is shown as below,
 <p align="center">
-<img src="imgs/DCGAN.png" width="750" height="280"><br/>
+<img src="imgs/DCGAN.png" width="750" height="200"><br/>
 <i>Figure 1</i>, architecture of DCGAN.<br/><br/>
 </p>
 
